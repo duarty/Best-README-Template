@@ -53,11 +53,13 @@ Abaixo estão as principais tecnologias usadas no projeto.
 * ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 * ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+* ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 A escolha do fastify como framework web se deu por motivos pessoais e pertinentes à vaga em questão, tendo em vista que ter conhecimento dessa tecnologia é um diferencial para a vaga. Pelo lado pessoal, foi meu primeiro contato com ele, embora eu sempre tenha tido vontade de aprendê-lo, pois é um dos web framework para NodeJS mais performáticos da atualidade e novos conhecimentos em diferentes tecnologias são sempre bem vindos.
 
 Entre aos motivos que justificaram a escolha do prisma como ORM e SQLite como banco de dados embedded, estão a simplicidade no uso e na implantação dessas tecnologias; documentação sólida e de fácil entendimento; além de muita experiência de outros devs compartilhada na internet.
 
+O Swagger é uma das melhores opções da atualidade para documentar APIs, pois permite testar os endpoints com dados "mockados" ou legítimos em ambientes de desenvolvimento ou homologação de forma fácil, rápida e bem estruturada.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
