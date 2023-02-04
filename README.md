@@ -18,7 +18,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#desejaveis">Desejaveis</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -113,15 +113,18 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Desejaveis
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [✓] Logs
+- [✓] Tratamento de exceções
+- [✓] Documentação
+- [✓] Commits
+- [✗] Testes unitários
+- [✗] Testes integração
+- [✓] Documentação dos endpoints
+- [✓] Estar rodando e disponível (Ex: Heroku, ou similar)
+- [✗] CI/CD
+
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
