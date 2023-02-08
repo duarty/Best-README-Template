@@ -31,7 +31,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre
 
-[![Product Name Screen Shot][product-screenshot]](https://repository-images.githubusercontent.com/69495170/8125e100-61bc-11e9-8d9f-eb01f522f962)
 
 A finalidade do projeto é desenvolver uma API com NodeJs e Typescript para fornecer aos seus usuários uma possibilidade de conversão entre pares de moedas usando recursos de um serviço externo.
 
